@@ -134,5 +134,7 @@ netsh advfirewall firewall add rule name="SMTP-587 QRadar" ^
 
 <img width="1037" height="831" alt="image" src="https://github.com/user-attachments/assets/ba2c5da1-19a7-456d-a417-6d6d0efbb4c9" />
 <img width="1037" height="652" alt="image" src="https://github.com/user-attachments/assets/7c318809-3ec0-4d5c-b8ba-b88e51e2bbc2" />
+<img width="937" height="218" alt="image" src="https://github.com/user-attachments/assets/da522e8d-164e-4d96-aa0f-8c901a7ee0e4" />
+
 
 
