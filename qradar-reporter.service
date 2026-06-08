@@ -1,0 +1,12 @@
+[Unit]
+Description=QRadar Hourly Status Reporter
+After=network.target
+
+[Service]
+Type=simple
+ExecStart=/usr/bin/python3 /opt/qradar-reporter.py
+Restart=always
+RestartSec=60
+
+[Install]
+WantedBy=multi-user.target
